@@ -79,11 +79,11 @@
 
         layer_CUSTOM {
             bindings = <
- &trans  &trans  &trans         &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans    &macro_parens           &trans         &trans
- &trans  &trans  &trans  &macro_email1  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans           &trans  &kp PRINTSCREEN         &trans
- &trans  &trans  &trans         &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans           &trans           &trans  &macro_quotes
-  &mo 5  &trans  &trans         &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans           &trans           &trans         &trans
- &trans  &trans  &trans         &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &macro_brackets           &trans         &trans
+ &trans  &trans  &trans                &trans               &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans    &macro_parens           &trans         &trans
+ &trans  &trans  &trans         &macro_email1               &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans           &trans  &kp PRINTSCREEN         &trans
+ &trans  &trans  &trans                &trans               &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans           &trans           &trans  &macro_quotes
+  &mo 5  &trans  &trans                &trans               &trans  &trans            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans           &trans           &trans         &trans
+ &trans  &trans  &trans  &macro_navigate_back  &macro_navigate_fwd                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &macro_brackets           &trans         &trans
             >;
         };
 
