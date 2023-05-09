@@ -2,13 +2,13 @@ macro_navigate_fwd: macro_navigate_fwd{
 compatible = "zmk,behavior-macro";
 label = "macro_navigate_fwd";
 #binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp RIGHT_BRACKET>;
+bindings = <&kt LEFT_ALT>, <&kp RIGHT_BRACKET>;
 };
 macro_navigate_back: macro_navigate_back{
 compatible = "zmk,behavior-macro";
 label = "macro_navigate_back";
 #binding-cells = <0>;
-bindings = <&kp LEFT_ALT>, <&kp LEFT_BRACKET>;
+bindings = <&kt LEFT_ALT>, <&kp LEFT_BRACKET>;
 };
 macro_email2: macro_email2{
 compatible = "zmk,behavior-macro";
