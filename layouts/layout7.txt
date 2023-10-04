@@ -1,0 +1,7 @@
+<base>
+{hk3}>{s9}{x1}{-lctr}{-lalt}{-lwin}{-lctr}
+{hk4}>{s9}{x1}{+lctr}{+lalt}{+lwin}{+lctr}
+<keypad>
+<function1>
+<function2>
+<function3>

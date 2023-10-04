@@ -1,0 +1,13 @@
+<base>
+[v]>[v][t&h300][F12]
+[c]>[c][t&h300][F11]
+[rwin]>[del]
+[del]>[rwin]
+{hk4}>{s5}{x1}{-lwin}{o}{+lwin}
+{hk3}>{s5}{x1}{-lwin}{spc}{+lwin}
+{F12}>{s5}{x1}{-lwin}{v}{+lwin}
+{F11}>{s5}{x1}{-lwin}{c}{+lwin}
+<keypad>
+<function1>
+<function2>
+<function3>
