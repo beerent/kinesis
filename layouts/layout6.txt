@@ -1,7 +1,0 @@
-<base>
-[j]>[j][t&h250][hk3]
-{hk3}>{s9}{x1}{-lwin}{spc}{+lwin}
-<keypad>
-<function1>
-<function2>
-<function3>
