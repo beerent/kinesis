@@ -1,0 +1,23 @@
+<base>
+[hk4]>[hk4][t&h150][F2]
+[rwin]>[del]
+[del]>[rwin]
+{hk3}>{s5}{x1}{-lwin}{spc}{+lwin}
+{hk4}>{s5}{x1}{-lwin}{o}{+lwin}
+
+* tilde macro ~
+{F1}>{s9}{x1}{lshf}{grav}
+[grav]>[grav][t&h150][F1]
+
+* tilde macro ~
+{F2}>{s5}{x1}{-rwin}{ent}{+rwin}
+
+<keypad>
+<function1>
+{j}>{s9}{x1}{-lwin}{spc}{+lwin}{i}{t}{e}{r}{m}{ent}
+{k}>{s9}{x1}{-lwin}{spc}{+lwin}{i}{n}{t}{e}{l}{ent}
+{l}>{s9}{x1}{-lwin}{spc}{+lwin}{d}{a}{t}{a}{g}{ent}
+{u}>{s9}{x1}{-lwin}{spc}{+lwin}{z}{o}{o}{m}{ent}
+{i}>{s9}{x1}{-lwin}{spc}{+lwin}{c}{h}{r}{o}{m}{e}{ent}
+<function2>
+<function3>
